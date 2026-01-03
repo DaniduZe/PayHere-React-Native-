@@ -14,7 +14,7 @@ const App = () => {
   const handlePay = () => {
     const paymentObject = {
       sandbox: true,
-      merchant_id: "1232766",
+      merchant_id: "YOUR_MERCHANT_ID", // Replace with your Merchant ID
       merchant_secret: "YOUR_MERCHANT_SECRET", // Replace with your Merchant Secret
       notify_url: "http://sample.com/notify",
       order_id: "ItemNo12345",
