@@ -1,4 +1,4 @@
-package com.payhere
+package com.vending
 
 import android.app.Application
 import com.facebook.react.PackageList

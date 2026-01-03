@@ -1,4 +1,4 @@
-package com.payhere
+package com.vending
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
